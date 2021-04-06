@@ -2,6 +2,9 @@
 
 This script automatically scans the files where the script is running through the virustotal api!
 
+![](video.gif)
+
+
 # Setup 
 Install the requirements, also you need go here: https://developers.virustotal.com/reference#getting-started and get your token. You have to put that token in the config.py file
 
